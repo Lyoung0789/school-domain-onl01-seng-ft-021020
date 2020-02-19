@@ -16,7 +16,7 @@ class School
     else 
       @roster[@grade] = []
       @roster[@grade] << name
-      puts @roster
+      #puts @roster
     end 
   end 
   
